@@ -95,7 +95,7 @@ fig.suptitle('Likelihood of Skills Requested in UK Job Postings', fontsize=15)
 fig.tight_layout(h_pad=.8)
 plt.show()
 ```
-![alt text](image.png)
+![alt text](Likelihood_of_Skills.png)
 _Bar graph visualizing the salary for the top 3 data roles and their top 5 skills associated with each._
 
 ## Insights:
@@ -126,7 +126,7 @@ plt.show()
 ```
 
 ## Results
-![alt text](image-1.png)
+![alt text](Trending_Skills_Data_Analyst.png)
 _Bar graph visualizing the trending top skills for data analysts in the UK in 2023._
 
 ## Insights:
@@ -152,7 +152,7 @@ plt.gca().xaxis.set_major_formatter(ticks_x)
 plt.show()
 ```
 ## Results
-![alt text](image.png)
+![alt text](Salary_Distribution.png)
 _Box plot visualizing the salary distributions for the top 6 data job titles._
 
 ## Insights
@@ -199,7 +199,7 @@ plt.show()
 ### Results
 Here's the breakdown of the highest-paid & most in-demand skills for data analysts in the US:
 
-![alt text](image.png)
+![alt text](Highest_Paid_Skills_UK.png)
 _Two separate bar graphs visualizing the highest paid skills and most in-demand skills for data analysts in the UK._
 
 **Insights:**
@@ -255,7 +255,7 @@ plt.show()
 ```
 _A scatter plot visualizing the most optimal skills (high paying & high demand) for data analysts in the UK with color labels for technology._
 ### Results 
-![alt text](image.png)
+![alt text](Optimal_Skills_UK.png)
 
 ### Insights:
 * The scatter plot shows that most of the programming skills (colored blue) tend to cluster at mid salary levels compared to other categories, indicating that programming expertise might offer greater salary benefits within the data analytics field.
